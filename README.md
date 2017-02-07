@@ -12,4 +12,4 @@
 8. Feed Reader Testing
 
 ##Certificate:
-![Screenshot](certificate.png)
+![Screenshot](certificate.jpg)
