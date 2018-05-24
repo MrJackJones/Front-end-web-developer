@@ -1,6 +1,6 @@
-#Front-End Web Developer Nanodegree
+# Front-End Web Developer Nanodegree
 
-##Project:
+**Project:**
 
 1. Mockup to Article
 2. Animal Trading Cards
@@ -11,5 +11,5 @@
 7. Neighborhood Map
 8. Feed Reader Testing
 
-##Certificate:
+## Certificate:
 ![Screenshot](certificate.jpg)
